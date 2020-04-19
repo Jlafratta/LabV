@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZOqTNP68aSJcHsU3IAbo5g8mqT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/UTN 2020/Spring/spring" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
@@ -64,6 +68,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584734838914" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585856103873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585856103873" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1585015840586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -92,9 +100,10 @@
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state x="2197" y="55" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1584732420699" />
-    <state x="581" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1585099307278">
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1585856072428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585856072428" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585002134229" />
     <state x="581" y="298" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585099307278" />
     <state x="2351" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1584732264253">
